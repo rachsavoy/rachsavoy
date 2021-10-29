@@ -1,6 +1,6 @@
  <h1 align="center"><strong>👋 Hi, I’m @rachsavoy</strong></h1>
  <h4 align="center">
- I am a full stack developer and designer. I currently work for Parlatore Law Group as their Website Specialist. 
+ I am a full stack developer and designer. 
  </h4>
  <h4 align="center">
  When I am not coding I am, working out 🏋️‍♀️, going to the beach 🏖, and spending time with my family 👨‍👩‍👦‍.
