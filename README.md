@@ -10,7 +10,7 @@
 
   [![Linkedin Badge](https://img.shields.io/badge/-savoyrachael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/savoyrachael/)](https://www.linkedin.com/in/savoyrachael/)
 
-  [![Gmail Badge](https://img.shields.io/badge/-rachael.a.hakim@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rachael.a.hakim@gmail.com)](mailto:rachael.a.hakim@gmail.com)
+  [![Yahoo Badge](https://img.shields.io/badge/-rachael.a.hakim@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rachael.a.hakim@gmail.com)](mailto:rachael_savoy@yahoo.com)
 </div>
 
 
