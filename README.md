@@ -10,7 +10,7 @@
 
   [![Linkedin Badge](https://img.shields.io/badge/-savoyrachael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/savoyrachael/)](https://www.linkedin.com/in/savoyrachael/)
 
-  [![Yahoo Badge](https://img.shields.io/badge/Yahoo%20-8A2BE2)](mailto:rachael_savoy@yahoo.com)
+  [![Yahoo Badge](https://img.shields.io/badge/Yahoo%20rachael_savoy@yahoo.com20%-8A2BE2)](mailto:rachael_savoy@yahoo.com)
 </div>
 
 
